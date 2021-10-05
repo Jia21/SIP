@@ -10,7 +10,7 @@ library(ggpubr)
 library(dplyr)
 library(kableExtra)
 
-setwd("/proj/yunligrp/users/jwen/SIP/revise/2_5")
+setwd("/proj/yunligrp/users/jwen/SIP/revise/2_4")
 load("/proj/yunligrp/users/jwen/SIP/Fig.3a_combine_mac_mon/fraser.rda")
 fraser <- data.table(fraser)
 fraser <- fraser[baitChr %in% 1:22]
