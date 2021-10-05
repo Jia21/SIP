@@ -1,0 +1,21 @@
+CT	PT	nSNP	nBait	percent	type	OR	pval	lower	upper
+Ery	HCT, HGB, MCH, MCHC, RBC, RDW	53	189	28.0	spec.SIP	3.52	1.8e-05	1.88	6.98
+Ery	HCT, HGB, MCH, MCHC, RBC, RDW	15	189	 7.9	spec.Random				
+Ery	HCT, HGB, MCH, MCHC, RBC, RDW	291	1157	25.2	all.SIP	3.34	1.4e-23	2.58	4.36
+Ery	HCT, HGB, MCH, MCHC, RBC, RDW	87	1157	 7.5	all.Random				
+MacMon	MONO, WBC	10	107	 9.3	spec.SIP	2.49	0.17	0.69	11.22
+MacMon	MONO, WBC	4	107	 3.7	spec.Random				
+MacMon	MONO, WBC	113	808	14.0	all.SIP	3.23	5e-10	2.16	4.92
+MacMon	MONO, WBC	35	808	 4.3	all.Random				
+MK	PLT, MPV	39	302	12.9	spec.SIP	2.6	0.0017	1.37	5.18
+MK	PLT, MPV	15	302	 5.0	spec.Random				
+MK	PLT, MPV	195	1287	15.2	all.SIP	3.09	1.4e-15	2.29	4.22
+MK	PLT, MPV	63	1287	 4.9	all.Random				
+nCD4	LYM, WBC	59	283	20.8	spec.SIP	3.68	2e-06	2.03	7.02
+nCD4	LYM, WBC	16	283	 5.7	spec.Random				
+nCD4	LYM, WBC	190	993	19.1	all.SIP	3.45	6.3e-17	2.51	4.81
+nCD4	LYM, WBC	55	993	 5.5	all.Random				
+Neu	NEU, WBC	59	274	21.5	spec.SIP	4.21	3.6e-07	2.25	8.36
+Neu	NEU, WBC	14	274	 5.1	spec.Random				
+Neu	NEU, WBC	194	861	22.5	all.SIP	3.88	5.6e-19	2.78	5.48
+Neu	NEU, WBC	49.5	861	 5.7	all.Random				
